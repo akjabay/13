@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
-    "module": "ESNext",
+    // "module": "ESNext",
+    "module": "NodeNext",
     "target": "ESNext",
     "moduleResolution": "NodeNext",
     "allowJs": true,
@@ -10,7 +11,7 @@
     "declarationMap": true,
     "forceConsistentCasingInFileNames": true,
     "disableSourceOfProjectReferenceRedirect": false,
-    "preserveConstEnums": false,
+    // "preserveConstEnums": false,
     "rootDir": "./",
     "baseUrl": ".",
     "emitDeclarationOnly": true,
